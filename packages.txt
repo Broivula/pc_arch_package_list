@@ -79,6 +79,7 @@ gvfs-smb
 gzip
 htop
 hydrapaper-git
+keychain
 libreoffice-still
 libtool
 linux
