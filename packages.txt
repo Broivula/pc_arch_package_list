@@ -1,3 +1,4 @@
+alacritty
 android-studio
 android-tools
 android-udev
@@ -11,6 +12,7 @@ bluez-utils
 brave
 cheese
 cronie
+dmenu
 efibootmgr
 eog
 epiphany
@@ -79,6 +81,10 @@ gvfs-smb
 gzip
 htop
 hydrapaper-git
+i3-gaps-rounded-git
+i3blocks
+i3lock
+i3status
 keychain
 libreoffice-still
 libtool
@@ -87,6 +93,7 @@ linux-firmware
 m4
 make
 mariadb
+mlocate
 mousetweaks
 mutter
 nano
@@ -96,6 +103,7 @@ nitrogen
 orca
 pacman
 patch
+picom
 pkgconf
 rygel
 sed
@@ -145,6 +153,7 @@ xorg-xdriinfo
 xorg-xev
 xorg-xgamma
 xorg-xhost
+xorg-xinit
 xorg-xinput
 xorg-xkbcomp
 xorg-xkbevd
