@@ -66,6 +66,7 @@ gnome-user-docs
 gnome-user-share
 gnome-video-effects
 gnome-weather
+gpicview
 grep
 grilo-plugins
 groff
@@ -105,6 +106,7 @@ pacman
 patch
 picom
 pkgconf
+polybar
 rygel
 sed
 simple-scan
