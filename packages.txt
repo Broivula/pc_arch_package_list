@@ -99,6 +99,7 @@ mousetweaks
 mutter
 nano
 nautilus
+nerd-fonts-complete
 networkmanager
 nitrogen
 orca
@@ -107,6 +108,7 @@ patch
 picom
 pkgconf
 polybar
+redshift
 rygel
 sed
 simple-scan
