@@ -21,6 +21,7 @@ fakeroot
 file
 file-roller
 findutils
+firefox
 flex
 gawk
 gcc
@@ -114,6 +115,7 @@ sed
 simple-scan
 spotify
 sudo
+surf
 sushi
 texinfo
 tilda
