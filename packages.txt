@@ -87,6 +87,7 @@ i3-gaps-rounded-git
 i3blocks
 i3lock
 i3status
+jdk11-openjdk
 keychain
 libreoffice-still
 libtool
