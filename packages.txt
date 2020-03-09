@@ -126,6 +126,7 @@ tracker-miners
 vim
 vino
 vlc
+watchman
 webstorm
 webstorm-jre
 which
