@@ -2,6 +2,8 @@ alacritty
 android-studio
 android-tools
 android-udev
+arduino
+arduino-docs
 autoconf
 automake
 baobab
