@@ -112,6 +112,7 @@ patch
 picom
 pkgconf
 polybar
+putty
 redshift
 rygel
 sed
@@ -184,3 +185,4 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 yelp
+zoom
