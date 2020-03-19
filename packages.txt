@@ -112,6 +112,7 @@ patch
 picom
 pkgconf
 polybar
+postman
 putty
 redshift
 rygel
