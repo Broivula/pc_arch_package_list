@@ -82,6 +82,7 @@ gvfs-gphoto2
 gvfs-mtp
 gvfs-nfs
 gvfs-smb
+gvim
 gzip
 htop
 hydrapaper-git
@@ -99,6 +100,7 @@ m4
 make
 mariadb
 mlocate
+mongodb-bin
 mousetweaks
 mutter
 nano
@@ -127,7 +129,6 @@ tilda
 totem
 tracker
 tracker-miners
-vim
 vino
 vlc
 watchman
