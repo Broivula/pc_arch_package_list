@@ -108,6 +108,7 @@ nautilus
 nerd-fonts-complete
 networkmanager
 nitrogen
+nmap
 orca
 pacman
 patch
