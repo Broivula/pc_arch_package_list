@@ -101,6 +101,7 @@ make
 mariadb
 mlocate
 mongodb-bin
+mongodb-tools-bin
 mousetweaks
 mutter
 nano
@@ -109,6 +110,7 @@ nerd-fonts-complete
 networkmanager
 nitrogen
 nmap
+obs-studio
 orca
 pacman
 patch
