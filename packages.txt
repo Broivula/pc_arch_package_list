@@ -120,6 +120,7 @@ polybar
 postman
 putty
 redshift
+robo3t-bin
 rygel
 sed
 simple-scan
