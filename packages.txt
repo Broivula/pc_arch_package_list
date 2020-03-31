@@ -107,6 +107,7 @@ mousetweaks
 mutter
 nano
 nautilus
+neofetch
 nerd-fonts-complete
 networkmanager
 nitrogen
