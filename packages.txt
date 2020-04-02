@@ -11,6 +11,7 @@ baobab
 base
 binutils
 bison
+bitchx-git
 bluez-utils
 brave
 cheese
@@ -91,6 +92,7 @@ i3-gaps-rounded-git
 i3blocks
 i3lock
 i3status
+irssi
 jdk11-openjdk
 keychain
 libreoffice-still
