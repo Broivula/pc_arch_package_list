@@ -118,6 +118,7 @@ obs-studio
 orca
 pacman
 patch
+pavucontrol
 picom
 pkgconf
 polybar
