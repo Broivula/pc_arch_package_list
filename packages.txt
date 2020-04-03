@@ -133,6 +133,7 @@ spotify
 sudo
 surf
 sushi
+sxiv
 texinfo
 tilda
 totem
