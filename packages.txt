@@ -16,6 +16,8 @@ bluez-utils
 brave
 cheese
 cronie
+deluge
+deluge-gtk
 dmenu
 efibootmgr
 eog
