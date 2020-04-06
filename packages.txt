@@ -143,6 +143,7 @@ tracker
 tracker-miners
 vino
 vlc
+vuescan-bin
 watchman
 webstorm
 webstorm-jre
