@@ -5,6 +5,7 @@ android-tools
 android-udev
 arduino
 arduino-docs
+audacity
 autoconf
 automake
 baobab
