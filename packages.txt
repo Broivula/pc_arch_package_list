@@ -90,6 +90,7 @@ gvfs-nfs
 gvfs-smb
 gvim
 gzip
+heroku-cli
 htop
 hydrapaper-git
 i3-gaps-rounded-git
