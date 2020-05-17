@@ -97,6 +97,7 @@ i3-gaps-rounded-git
 i3blocks
 i3lock
 i3status
+ilspymono-git
 irssi
 jdk11-openjdk
 keychain
@@ -129,6 +130,7 @@ pkgconf
 polybar
 postman
 putty
+radare2
 redshift
 robo3t-bin
 rygel
