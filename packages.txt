@@ -151,6 +151,7 @@ watchman
 webstorm
 webstorm-jre
 which
+wine
 xdg-user-dirs-gtk
 xf86-video-vesa
 xorg-bdftopcf
