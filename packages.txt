@@ -146,6 +146,7 @@ tilda
 totem
 tracker
 tracker-miners
+vi
 vino
 vlc
 vuescan-bin
