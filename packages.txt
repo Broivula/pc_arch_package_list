@@ -155,6 +155,7 @@ webstorm
 webstorm-jre
 which
 wine
+wireshark-qt
 xdg-user-dirs-gtk
 xf86-video-vesa
 xorg-bdftopcf
