@@ -148,6 +148,7 @@ tracker
 tracker-miners
 vi
 vino
+virtualbox
 vlc
 vuescan-bin
 watchman
