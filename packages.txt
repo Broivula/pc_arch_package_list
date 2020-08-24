@@ -146,6 +146,7 @@ tilda
 totem
 tracker
 tracker-miners
+unrar
 vi
 vino
 virtualbox
