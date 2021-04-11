@@ -16,6 +16,7 @@ bitchx-git
 bluez-utils
 brave
 cheese
+chromium
 cronie
 deluge
 deluge-gtk
@@ -146,6 +147,7 @@ sushi
 sxiv
 texinfo
 tilda
+tk
 totem
 tracker
 tracker-miners
