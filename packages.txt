@@ -133,6 +133,7 @@ pkgconf
 polybar
 postman
 putty
+python-pip
 radare2
 redshift
 robo3t-bin
