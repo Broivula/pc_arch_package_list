@@ -75,6 +75,7 @@ gnome-user-docs
 gnome-user-share
 gnome-video-effects
 gnome-weather
+go
 google-chrome
 gpicview
 grep
