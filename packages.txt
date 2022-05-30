@@ -121,6 +121,7 @@ nano
 nautilus
 neofetch
 nerd-fonts-complete
+net-tools
 networkmanager
 nitrogen
 nmap
