@@ -1,5 +1,6 @@
 alacritty
 android-file-transfer
+android-sdk-platform-tools
 android-studio
 android-tools
 android-udev
