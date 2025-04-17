@@ -16,7 +16,7 @@ bison
 bitchx-git
 blender
 bluez-utils
-brave
+brave-bin
 cheese
 chromium
 cronie
@@ -24,6 +24,7 @@ deluge
 deluge-gtk
 dmenu
 efibootmgr
+endeavour
 eog
 epiphany
 evince
@@ -32,6 +33,7 @@ file
 file-roller
 findutils
 firefox
+flac1.3
 flex
 gawk
 gcc
@@ -71,7 +73,6 @@ gnome-software
 gnome-system-monitor
 gnome-terminal
 gnome-themes-extra
-gnome-todo
 gnome-tweaks
 gnome-user-docs
 gnome-user-share
@@ -102,6 +103,7 @@ i3blocks
 i3lock
 i3status
 ilspymono-git
+insomnia
 irssi
 jdk11-openjdk
 keychain
@@ -114,7 +116,6 @@ luit
 m4
 make
 mariadb
-mlocate
 mongodb-bin
 mongodb-tools-bin
 mousetweaks
@@ -134,6 +135,7 @@ patch
 pavucontrol
 picom
 pkgconf
+plocate
 polybar
 postman
 putty
